@@ -1,0 +1,61 @@
+header {
+    background-color: #99EDFD;
+    padding: 55px;
+ 
+}
+
+nav a {
+    font-size: 40px;
+    margin: 20px;
+
+color: white;
+text-decoration: none;
+}
+
+
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+nav img {
+    width: 100px;
+    border-radius: 100px;
+    float: right;
+    
+}
+
+
+.cadenac {
+    text-align: right;  
+    font-size: 20px;
+}
+
+.cadenac img {
+    width: 350px;
+    float: right;
+}
+
+.cadenac h1 {
+    text-align: right;
+}
+
+.grillz {
+    text-align: left;
+    font-size: 20px;
+}
+.grillz img {
+    width: 350px;
+    float: left;
+}
+
+.daytona {
+    padding-top: 250px;
+    font-size: 20px;
+    text-align: right;
+}
+
+.daytona img {
+    width: 350px;
+    float: right;
+}
