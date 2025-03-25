@@ -30,9 +30,28 @@ nav img {
     
 }
 
+.tarjetas {
+    display: flex;
+    gap: 10px;
+}
+.relojes {
+    margin: 20px;
+    width: 300px;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0px 5px 10px #ccc;
+    font-size: 20px;
+}
+.cadenas {
+    margin: 20px;
+    width: 300px;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0px 5px 10px #ccc;
+    font-size: 20px;
 
-.contenido {
-
+}
+.anillos {
     margin: 20px;
     width: 300px;
     border-radius: 20px;
@@ -41,37 +60,42 @@ nav img {
     font-size: 20px;
 }
 
-.contenido h1 {
-    text-align: center;
+.relojes img {
+    width: 100%;
 }
 
-.contenido img {
-width: 100%;
+.cadenas img {
+    width: 100%;
 }
-
-.tarjetas {
-    display: flex;
-    gap: 20px;
-    align-items: center;
+.anillos img {
+    width: 100%;
 }
-.comprar {
+.vermas {
     display: inline-block;
     padding: 12px 24px;
     border-radius: 30px;
     background-color: #BFBFBF;
 }
-main h1 {
-    text-align: center;
-}
 
 footer {
     background-color: #99EDFD;
+    color: black;
     text-align: center;
     padding: 30px;
 }
-
 .nombre {
-   float: inline-start;
-    
-}
+    float: inline-start;
+     
+ }
+ .aritos {
+    margin: 20px;
+    width: 300px;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0px 5px 10px #ccc;
+    font-size: 20px;
 
+ }
+ .aritos img {
+    width: 100%;
+ }
